@@ -1,0 +1,17 @@
+# Setup
+title:        Mitas Ray
+tagline:      Student at UC Berkeley
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Mitas Ray
+  url:        http://127.0.0.1:4000/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
